@@ -5,7 +5,7 @@ export default class NavBar extends Component {
         return (
             <React.Fragment>
                 <h1>Hello from :</h1>
-                <p>"NavBar" Class Component</p>
+                <p className="hightlight">"NavBar" Class Component</p>
             </React.Fragment>
         )
     }
